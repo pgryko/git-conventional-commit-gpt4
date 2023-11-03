@@ -1,6 +1,6 @@
 Git commit logs can be tedious to write...
 
-![<img src="https://xkcd.com/1296/">](https://xkcd.com/1296/)
+![<img src="https://xkcd.com/1296/">](https://imgs.xkcd.com/comics/git_commit.png)
 
 but are useful for long term maintenance and code audit.
 
