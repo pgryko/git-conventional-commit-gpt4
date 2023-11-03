@@ -1,6 +1,6 @@
 Git commit logs can be tedious to write...
 
-![<img src="https://xkcd.com/1296/">](/assets/img/posts/2023-11-03-git-conventional-commit-gpt4/git_commit_2x_xkcd.png)
+![<img src="https://xkcd.com/1296/">](https://xkcd.com/1296/)
 
 but are useful for long term maintenance and code audit.
 
